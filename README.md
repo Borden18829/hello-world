@@ -1,4 +1,3 @@
 # hello-world
-Melting pot of ideas for the final project Spring COMP1050
 
-Update 1
+Update from dev2
